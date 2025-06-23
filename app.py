@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.write("Power Calculator")
+st.write("Power Calculator by Tahasin islam")
 st.write("Enter a number to calculate the square , qube and fifth power")
 
 user_input = st.number_input("Enter an Integar: ", value = 1, step = 1)
